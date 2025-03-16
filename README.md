@@ -1,7 +1,5 @@
 # Java-QAP3-Semester3
 
----
-
 ## Advanced Java Programming - Course Assessment
 
 ### **Introduction**
@@ -45,3 +43,6 @@ Each problem requires:
 
 - Fully functional **Java class files** with proper documentation.
 - A **screenshot** showing successful execution of the code.
+
+<!-- Author  -->
+<!-- Abdul Rahman  -->
