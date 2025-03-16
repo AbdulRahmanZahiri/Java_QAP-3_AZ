@@ -7,7 +7,7 @@ public class Ellipse extends Shape {
     // Constructor
     public Ellipse(double a, double b) {
         super("Ellipse");
-        this.a = Math.max(a, b) + 0.2; // Slightly increased the larger axis
+        this.a = Math.max(a, b) + 0.2;
         this.b = Math.min(a, b);
     }
 
